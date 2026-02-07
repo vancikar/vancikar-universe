@@ -1,132 +1,21 @@
-# vancikar-universe
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>VANCIKAR Universe — FINAL HUB</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { margin:0; font-family: Arial, Helvetica, sans-serif; background:#0e0e0e; color:#f5f5f5; }
-    header { position:fixed; top:0; left:0; right:0; background:#111; border-bottom:1px solid #222; z-index:1000; }
-    nav { display:flex; gap:18px; padding:14px 20px; overflow-x:auto; }
-    nav a { color:#f4a261; text-decoration:none; white-space:nowrap; font-weight:600; }
-    nav a:hover { color:#ffffff; }
-    .container { padding:100px 22px 40px; max-width:1100px; margin:auto; }
-    h1 { color:#e63946; margin-bottom:10px; }
-    h2 { color:#ffffff; margin-top:50px; border-bottom:1px solid #222; padding-bottom:6px; }
-    p { color:#bdbdbd; }
-    .section { margin-bottom:50px; }
-    .links a { display:block; margin:6px 0; color:#f4a261; text-decoration:none; }
-    .links a:hover { color:#ffffff; }
-    iframe { width:100%; height:320px; border:none; margin:12px 0; background:#000; }
-    footer { text-align:center; padding:30px 10px; color:#777; border-top:1px solid #222; }
-  </style>
-</head>
-<body>
-
-<header>
-  <nav>
-    <a href="#core">Core Nodes</a>
-    <a href="#alt">Alternative Streams</a>
-    <a href="#archive">Archive & Legacy</a>
-    <a href="#visuals">Visuals / Art</a>
-    <a href="#web3">Experimental / Web3</a>
-    <a href="#press">Press / Portfolio</a>
-  </nav>
-</header>
-
-<div class="container">
-  <h1>VANCIKAR Universe — Final Hub</h1>
-  <p>Origin Canon • Global Identity • Permanent Archive</p>
-
-  <!-- CORE NODES -->
-  <div id="core" class="section">
-    <h2>Core Nodes</h2>
-    <iframe src="https://www.youtube.com/embed" title="YouTube"></iframe>
-    <iframe src="https://w.soundcloud.com/player/" title="SoundCloud"></iframe>
-    <div class="links">
-      <a href="https://youtube.com" target="_blank">YouTube</a>
-      <a href="https://soundcloud.com" target="_blank">SoundCloud</a>
-      <a href="https://bandcamp.com" target="_blank">Bandcamp</a>
-      <a href="https://github.com" target="_blank">GitHub</a>
-      <a href="https://archive.org" target="_blank">Internet Archive</a>
-      <!-- add remaining core links here (25+) -->
-    </div>
-  </div>
-
-  <!-- ALTERNATIVE STREAMS -->
-  <div id="alt" class="section">
-    <h2>Alternative Streams</h2>
-    <iframe src="https://vimeo.com" title="Vimeo"></iframe>
-    <div class="links">
-      <a href="https://vimeo.com" target="_blank">Vimeo</a>
-      <a href="https://odysee.com" target="_blank">Odysee</a>
-      <a href="https://audius.co" target="_blank">Audius</a>
-      <a href="https://mixcloud.com" target="_blank">Mixcloud</a>
-      <a href="https://peertube.tv" target="_blank">PeerTube</a>
-      <!-- add remaining alternative links (25+) -->
-    </div>
-  </div>
-
-  <!-- ARCHIVE & LEGACY -->
-  <div id="archive" class="section">
-    <h2>Archive & Legacy</h2>
-    <iframe src="" title="Documents / PDFs"></iframe>
-    <div class="links">
-      <a href="#">Tracklists & BPM Charts</a>
-      <a href="#">Canon Documents</a>
-      <a href="#">License & Proof of Origin</a>
-      <a href="#">Statements & History</a>
-      <!-- add remaining archive links (25+) -->
-    </div>
-  </div>
-
-  <!-- VISUALS / ART -->
-  <div id="visuals" class="section">
-    <h2>Visuals / Art</h2>
-    <iframe src="https://www.behance.net" title="Behance"></iframe>
-    <div class="links">
-      <a href="https://behance.net" target="_blank">Behance</a>
-      <a href="https://artstation.com" target="_blank">ArtStation</a>
-      <a href="https://deviantart.com" target="_blank">DeviantArt</a>
-      <a href="#">Album Covers</a>
-      <a href="#">Cinematic Visuals</a>
-      <!-- add remaining visual links (25+) -->
-    </div>
-  </div>
-
-  <!-- WEB3 / EXPERIMENTAL -->
-  <div id="web3" class="section">
-    <h2>Experimental / Web3</h2>
-    <div class="links">
-      <a href="#">Decentralized Video</a>
-      <a href="#">Blockchain Audio</a>
-      <a href="#">NFT Streams</a>
-      <a href="#">VR / Spatial Audio</a>
-      <a href="#">Crypto Collectibles</a>
-      <!-- add remaining web3 links (25+) -->
-    </div>
-  </div>
-
-  <!-- PRESS / PORTFOLIO -->
-  <div id="press" class="section">
-    <h2>Press / Portfolio</h2>
-    <div class="links">
-      <a href="#">Press Kit</a>
-      <a href="#">Media Interviews</a>
-      <a href="#">Reviews & Articles</a>
-      <a href="#">Public Canon Verification</a>
-      <a href="#">Portfolio Highlights</a>
-      <!-- add remaining press links (25+) -->
-    </div>
-  </div>
-
-</div>
-
-<footer>
-  VANCIKAR Universe • Origin Canon Locked • Timeless Archive
-</footer>
-
-</body>
-</html>
+20. Crunchbase – https://www.crunchbase.com/person/vancikar-music
+21. Setlist.fm – https://www.setlist.fm/setlists/vancikar-539babd9.html
+22. ReelCrafter – https://app.reelcrafter.com/dashboard
+23. Miro – https://miro.com/app/settings/company/3458764658666897491/user-profile
+24. Lucid – https://lucid.app/documents#/home?folder_id=recent
+25. Apollo.io – https://app.apollo.io/#/settings/account
+26. House-Mixes – https://www.house-mixes.com/vancikarmusic
+27. LinkedIn – https://www.linkedin.com/in/vancikar/
+28. Twitch Dashboard – https://dashboard.twitch.tv/u/vancikar/home
+29. Twitch Settings – https://www.twitch.tv/settings/profile
+30. Blogger Edit – https://www.blogger.com/u/1/blog/post/edit/2760790351314017892/916643010042468105?hl=en-GB
+31. Blogger Dashboard – https://www.blogger.com/u/1/blog/posts/2760790351314017892?hl=en-GB
+32. Kompoz – https://www.kompoz.com/user/VANCIKAR
+33. BandLab – https://www.bandlab.com/vancikar
+34. BandLab Music Overview – https://www.bandlab.com/vancikar/music-overview
+35. Soundation – https://soundation.com/user/vancikar
+36. Soundation Music – https://soundation.com/user/vancikarmusic
+37. Boomplay – https://www.boomplay.com/userCenter/profile
+38. Pixabay – https://pixabay.com/users/vancikar-54526879/
+39. ReverbNation – https://www.reverbnation.com/vancikar
+40. Wikimedia Commons – https://commons.wikimedia.org/w/index.php?title=User%3AVancikar&action=edit&redlink=1
